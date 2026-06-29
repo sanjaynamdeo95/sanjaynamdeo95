@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjaynamdeo95
-- 👀 I’m interested in ...Java and Angular
+- 👀 I’m interested in ...Java and Microservices 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sanjaynamdeo123@gmail.com
